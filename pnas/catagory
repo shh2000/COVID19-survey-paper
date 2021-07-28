@@ -1,0 +1,49 @@
+序号,题目,类型(主刊/子刊),"文章类型（Article, Research, Letter）","研究类型（compartment model, agent-based model, epidemic characteristic）"
+1,A guideline to limit indoor airborne transmission of COVID-19,主刊,Research,Well-mixed room model for airborne transmission
+2,A network-based explanation of why most COVID-19 infection curves are linear,主刊,Research,compartment model; metapopulation
+3,Acceleration of plague outbreaks in the second pandemic,主刊,Research,logistic model
+4,"Awareness-driven behavior changes can shift the shape of epidemics away from peaks and toward plateaus, shoulders, and oscillations",主刊,Research,compartment model
+5,Bayesian estimation of SARS-CoV-2 prevalence in Indiana by random testing,主刊,Research,Bayesian methods
+6,Cell-phone traces reveal infection-associated behavioral change,主刊,Research,regression
+7,"Characterizing superspreading events and age-specific infectiousness of SARS-CoV-2 transmission in Georgia, USA",主刊,Research,agent-based model
+8,COVID-19 lockdown induces disease-mitigating structural changes in mobility networks,主刊,Research,compartment model; metapopulation
+9,Dynamic prioritization of COVID-19 vaccines when social distancing is limited for essential workers,主刊,Research,compartment model
+10,Economic and social consequences of human mobility restrictions under COVID-19,主刊,Research,regression
+11,Estimating unobserved SARS-CoV-2 infections in the United States,主刊,Research,compartment model
+12,Evaluating the effects of shelter-in-place policies during the COVID-19 pandemic,主刊,Research,regression
+13,Event-specific interventions to minimize COVID-19 transmission,主刊,Research,mathematical equations
+14,Evidence that coronavirus superspreading is fat-tailed,主刊,Research,compartment model; metapopulation
+15,Explaining the homogeneous diffusion of COVID-19 nonpharmaceutical interventions across heterogeneous countries,主刊,Research,regression
+16,Face masks considerably reduce COVID-19 cases in Germany,主刊,Research,regression
+17,Forward-looking serial intervals correctly link epidemic growth to reproduction number,主刊,Research,epidemic characteristic
+18,Global COVID-19 pandemic demands joint interventions for the suppression of future waves,主刊,Research,compartment model; metapopulation
+19,Global evidence for ultraviolet radiation decreasing COVID-19 growth rates,主刊,Research,epidemic characteristic
+20,"Higher airborne pollen concentrations correlated with increased SARS-CoV-2 infection rates, as evidenced from 31 countries across the globe",主刊,Research,epidemic characteristic
+21,Identifying airborne transmission as the dominant route for the spread of COVID-19,主刊,Research,regression
+22,Impact of international travel and border control measures on the global spread of the novel 2019 coronavirus outbreak,主刊,Research,risk estimation model
+23,Local lockdowns outperform global lockdown on the far side of the COVID-19 epidemic curve,主刊,Research,compartment model
+24,Mechanistic transmission modeling of COVID-19 on the Diamond Princess cruise ship demonstrates the importance of aerosol transmission,主刊,Research,computational fluid dynamics simulation
+25,Mobile device data reveal the dynamics in a positive relationship between human mobility and COVID-19 infections,主刊,Brief Report,regression
+26,"Modeling between-population variation in COVID-19 dynamics in Hubei, Lombardy, and New York City",主刊,Research,agent-based model
+27,Network interventions for managing the COVID-19 pandemic and sustaining economy,主刊,Research,agent-based model
+28,Overdispersion in COVID-19 increases the effectiveness of limiting nonrepetitive contacts for transmission control,主刊,Research,agent-based model
+29,Projecting hospital utilization during the COVID-19 outbreaks in the United States,主刊,Research,compartment model
+30,Public health interventions and epidemic intensity during the 1918 influenza pandemic,主刊,Research,regression
+31,"Quantifying asymptomatic infection and transmission of COVID-19 in New York City using observed cases, serology, and testing capacity",主刊,Research,compartment model
+32,Rationing social contact during the COVID-19 pandemic: Transmission risk and social benefits of US locations,主刊,Brief Report,regression
+33,Retail store customer flow and COVID-19 transmission,主刊,Research,agent-based model
+34,Retrospective analysis of the Italian exit strategy from COVID-19 lockdown,主刊,Research,compartment model
+35,Seasonality and uncertainty in global COVID-19 growth rates,主刊,Research,regression
+36,Short-term forecasts of expected deaths,主刊,Research,linear equation
+37,Social distancing decreases an individual’s likelihood of contracting COVID-19,主刊,Research,regression
+38,Social distancing responses to COVID-19 emergency declarations strongly differentiated by income,主刊,Brief Report,regression
+39,Spatial heterogeneity can lead to substantial local variations in COVID-19 timing and severity,主刊,Research,agent-based model; social network
+40,Spread and dynamics of the COVID-19 epidemic in Italy: Effects of emergency containment measures,主刊,Research,compartment model; metapopulation
+41,The effects of school closures on SARS-CoV-2 among parents and teachers,主刊,Research,regression
+42,The impact of COVID-19 nonpharmaceutical interventions on the future dynamics of endemic infections,主刊,Research,compartment model
+43,The implications of silent transmission for the control of COVID-19 outbreaks,主刊,Brief Report,agent-based model
+44,The interplay of movement and spatiotemporal variation in transmission degrades pandemic control,主刊,Brief Report,compartment model; metapopulation
+45,The turning point and end of an expanding epidemic cannot be precisely forecast,主刊,Research,compartment model
+46,Timing social distancing to avert unmanageable COVID-19 hospital surges,主刊,Research,compartment model; metapopulation
+47,Transmission dynamics reveal the impracticality of COVID-19 herd immunity strategies,主刊,Research,compartment model; metapopulation
+48,Vaccinating the oldest against COVID-19 saves both the most lives and most years of life,主刊,Brief Report,linear equation
